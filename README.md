@@ -2,7 +2,7 @@
 
 **EaseBuddy** is a simple and powerful EdTech web app designed to help students easily find curated study resources — including YouTube playlists, PYQs (Previous Year Questions), study materials, and quick tests — organized by class, subject, and chapter.
 
-> 🚀 Live: [https://tiny-duckanoo-6a7f80.netlify.app](https://tiny-duckanoo-6a7f80.netlify.app)
+> 🚀 Live: [https://tiny-duckanoo-6a7f80.netlify.app](https://ease-buddy.netlify.app/)
 
 ---
 
