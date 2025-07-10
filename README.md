@@ -59,7 +59,7 @@ EaseBuddy/
 
 ## 🙌 Author
 
-**Hemant Saini**  
-📫 [hemantsaini30](https://github.com/hemantsaini30)
+**Mandvi-Shukla**  
+📫 [Mandvi-Shukla](https://github.com/Mandvi-Shukla)
 
 ---
